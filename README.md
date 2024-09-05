@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bbe2a8b5-41f0-47bb-901d-afe0a8c881d1)# Rail Fence Cipher
+# Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 ## AIM:
