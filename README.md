@@ -157,8 +157,10 @@ void decrypt(char str[], int rails) {
 
 
 ## OUTPUT:
-![Screenshot 2024-09-05 092952](https://github.com/user-attachments/assets/1e342692-fa87-41cb-b1a2-39bee2f1c693)
-![Screenshot 2024-09-05 093621](https://github.com/user-attachments/assets/a200010d-efb2-4e51-97bb-eeda1d5e16fa)
+![Screenshot 2024-10-17 093518](https://github.com/user-attachments/assets/550a8eef-bfd3-4069-bf11-9fd46cde0972)
+![Screenshot 2024-10-17 093604](https://github.com/user-attachments/assets/0d0fe0ae-3551-418e-aaa0-09de62d38c89)
+
+
 
 
 
